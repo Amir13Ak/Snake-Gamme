@@ -1,1 +1,1 @@
-.DivStyle{ width: 350px ; height: 350px ; border-style: solid ; border-color: steelblue ; background-color: steelblue   ; border-width: 2px ;}.bodyStyle{background-color: darkseagreen ;}
+.DivStyle{ width: 350px ; height: 350px ; border-style: solid ; border-color: steelblue ; background-color: steelblue   ; border-width: 2px ;}.bodyStyle{background-color: #262626 ;}.snakeBoard{position: absolute ; left: 50% ; top: 50% ; transform: translate(-50%, -50%) ;}
